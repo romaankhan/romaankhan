@@ -36,6 +36,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -83,26 +84,25 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=romaankhan&show_icons=true&locale=en&layout=compact"
     alt="adam-pw" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaankhan&show_icons=true&locale=en"
     alt="adam-pw" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaankhan&" alt="adam-pw" /></p>
 
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw" alt="adam-pw" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=romaankhan" alt="romaankhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-[Adam-pw](https://github.com/Adam-pw)
+[Romaan Khan](https://github.com/romaankhan)
