@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://assets10.lottiefiles.com/packages/lf20_bp5lntrf.json" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently working as an Android/Flutter Developer
