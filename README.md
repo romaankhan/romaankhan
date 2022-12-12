@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romaan Khan</h1>
-<h3 align="center">Android/Flutter Debveloper at Synchsoft Technologies🌟.</h3>
+<h3 align="center">Android/Flutter Debveloper🌟.</h3>
 
 <br>
 
