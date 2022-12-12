@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently working as an Android/Flutter Developer
 
-- 📫 How to reach me **khan.romaan4@gmail.com**
+- 📫 How to reach me **romaanofficial@gmail.com**
 
 - ⚡ Fun fact :- food and anime are the reasons to live.
 
